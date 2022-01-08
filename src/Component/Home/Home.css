@@ -1,0 +1,7 @@
+.countries_style{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 80%;
+    padding : 80px 120px;
+    grid-gap: 30px;
+}

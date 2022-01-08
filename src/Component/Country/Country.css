@@ -1,0 +1,10 @@
+.country_style img {
+    height:150px;
+}
+.country_style {
+    box-shadow: 5px 5px 10px gray;
+    height : 400px;
+    width: 300px;
+    padding: 30px;
+    border-radius: 20px;
+}
